@@ -1,0 +1,17 @@
+/* Estilo do botão */
+#botao-voltar-ao-topo {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  z-index: 9999;
+}
+
+#botao-voltar-ao-topo:hover {
+  background-color: #444;
+}
